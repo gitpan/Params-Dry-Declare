@@ -21,4 +21,4 @@ requires:
   Exporter: 0
   Params::Dry: 0
   perl: 5.006
-version: 0.9905
+version: 0.9906
